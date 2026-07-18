@@ -27,11 +27,11 @@ A lightweight, interactive command-line Python application that tracks daily exp
 
   ### How to Run this project?
 1. Ensure you have Python installed on your system.
-2. Save the provided script code into a file named `expense_tracker.py`
+2. Save the provided script code into a file named `EXPENSE_TRACKER.py`
 3. Open your terminal or command prompt and navigate to the directory containing the file.
 4. Run the script using the following command:
    ``` bash
-   python EXPENSE_TRACKER.pY
+   python EXPENSE_TRACKER.py
 
   ### Results & Conclusion
 * The program successfully achieves its goal of tracking expenses reliably. By decoupling the logic accumulation phase from the final summary output phase, the terminal interface remains clean, predictable, and resilient against erratic user inputs.
